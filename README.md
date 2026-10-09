@@ -22,7 +22,6 @@ Ushbu portfolio zamonaviy frontend texnologiyalari yordamida noldan yaratilgan. 
 3. Hech qanday qo'shimcha server, Node.js yoki boshqa dastur o'rnatish talab etilmaydi! Faqat toza HTML, CSS va JS.
 
 ## 📞 Aloqa
-- **Telegram:** [@Umriuzoq_777](https://t.me/Umriuzoq_777)
 - **Google Meet:** [Uchrashuvga ulanish](https://meet.google.com/mrd-ggfh-sqk)
 
 ---
